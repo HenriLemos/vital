@@ -1,0 +1,148 @@
+name: vital
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.7.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  provider: ^6.0.0
+  sqflite: ^2.3.0
+  path: ^1.8.3
+  http: any
+  cached_network_image: ^3.4.1
+  intl: ^0.18.0
+  shared_preferences: ^2.5.3
+  image_picker: ^1.0.4
+  path_provider: ^2.1.1
+  confetti: ^0.8.0
+  firebase_core: ^3.13.0
+  firebase_messaging: ^15.2.5
+  flutter_local_notifications: ^19.1.0
+  table_calendar: ^3.0.9
+  permission_handler: ^11.0.0
+  
+flutter_launcher_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/images/logo.png"
+  min_sdk_android: 21 # android min sdk min:16, default 21
+  # configurações opcionais:
+  adaptive_icon_background: "#FFFFFF" # apenas para Android 8.0+
+  adaptive_icon_foreground: "assets/images/logo.png" # apenas para Android 8.0+
+  remove_alpha_ios: true
+  
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+  flutter_launcher_icons: ^0.13.1
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/welcome.png
+    - assets/images/logo.png
+    - assets/images/back.png
+    - assets/images/cardio.png
+    - assets/images/chest.png
+    - assets/images/lowerArms.png
+    - assets/images/lowerLegs.png
+    - assets/images/neck.png
+    - assets/images/shoulders.png
+    - assets/images/upperArms.png
+    - assets/images/upperLegs.png
+    - assets/images/waist.png
+    - assets/images/slide1.png
+    - assets/images/slide2.png
+    - assets/images/slide3.png
+    - assets/images/slide4.png
+    - assets/images/slide5.png
+    - assets/gifs/001.gif
+    - assets/gifs/002.gif
+    - assets/gifs/003.gif
+    - assets/gifs/004.gif
+    - assets/gifs/005.gif
+    - assets/gifs/006.gif
+    - assets/gifs/007.gif
+    - assets/gifs/008.gif
+    - assets/gifs/009.gif
+    - assets/gifs/010.gif
+    - assets/gifs/011.gif
+    - assets/gifs/012.gif
+    - assets/gifs/013.gif
+    - assets/gifs/014.gif
+    - assets/gifs/015.gif
+    - assets/gifs/016.gif
+    - assets/gifs/017.gif
+    - assets/gifs/018.gif
+    - assets/gifs/019.avif
+    - assets/gifs/020.gif
+    - assets/gifs/021.gif
+    - assets/gifs/022.gif
+    - assets/gifs/023.gif
+    - assets/gifs/024.gif
+    - assets/gifs/025.gif
+    - assets/gifs/026.gif
+    - assets/gifs/027.gif
+    - assets/gifs/028.gif
+    - assets/gifs/029.gif
+    - assets/gifs/030.gif
+    - assets/gifs/031.gif
+    - assets/gifs/032.gif
+    - assets/gifs/033.gif
+    - assets/gifs/034.gif
+    - assets/gifs/035.gif
+    - assets/gifs/036.gif
+    - assets/gifs/037.gif
+    - assets/gifs/038.gif
+    - assets/gifs/039.gif
+    - assets/gifs/040.gif
+    - assets/gifs/041.gif
+    - assets/gifs/042.gif
+    - assets/gifs/043.avif
+    - assets/gifs/044.gif
+    - assets/gifs/045.gif
+    - assets/gifs/046.gif
+    - assets/gifs/047.gif
+    - assets/gifs/048.gif
+    - assets/gifs/049.gif
+    - assets/gifs/050.gif
+    - assets/gifs/051.gif
+    - assets/gifs/052.gif
+    - assets/gifs/053.gif
+    - assets/gifs/054.gif
+    - assets/gifs/055.webp
+    - assets/gifs/056.gif
+    - assets/gifs/058.gif
+    - assets/gifs/059.gif
+    - assets/gifs/061.gif
+    - assets/gifs/062.gif
+    - assets/gifs/063.gif
+    - assets/gifs/064.gif
+    - assets/gifs/065.gif
+    - assets/gifs/066.gif
+    - assets/gifs/067.gif
+    - assets/gifs/068.gif
+    - assets/gifs/069.gif
+    - assets/gifs/070.gif
+    - assets/gifs/071.gif
+    - assets/gifs/072.gif
+    - assets/gifs/073.gif
+    - assets/gifs/074.gif
+    - assets/gifs/075.gif
+    - assets/gifs/076.gif
+    - assets/gifs/077.gif
+    - assets/gifs/078.png
+    - assets/gifs/079.png
+    - assets/gifs/080.gif
+    - assets/gifs/081.gif
+    - assets/gifs/082.gif
+    - assets/gifs/083.gif
+
+
+
