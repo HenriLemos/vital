@@ -641,7 +641,7 @@ final List<Map<String, dynamic>> demoExercises = [
   {
     "bodyPart":"peitoral",
     "equipment":"barra",
-    "gifUrl":"assets/gifs/060.gif",
+    "gifUrl":"assets/gifs/085.gif",
     "id":"0122",
     "instructions":[
       "Deite-se em um banco com os pés apoiados no chão e as costas pressionadas contra o banco.",
@@ -1219,7 +1219,7 @@ final List<Map<String, dynamic>> demoExercises = [
   {
     "bodyPart": "Ombro",
     "equipment": "barra",
-    "gifUrl": "assets/gifs/057.png",
+    "gifUrl": "assets/gifs/086.png",
     "id": "0100",
     "instructions": [
       "Fique em pé com os pés na largura dos ombros e segure uma barra à frente das coxas com uma pegada pronada.",
@@ -1387,80 +1387,80 @@ final List<Map<String, dynamic>> demoExercises = [
     "target": "tríceps"
   },
   {
-    "bodyPart":"Braço Superior",
-    "equipment":"barbell",
-    "gifUrl":"assets/gifs/.gif-fO6",
-    "id":"0038",
-    "instructions":[
-      "Stand with your feet shoulder-width apart and hold a barbell with an underhand grip, palms facing up.",
-      "Let the barbell hang at arm's length in front of your thighs.",
-      "Keeping your Braço Superior stationary, curl the barbell up towards your peitoral by contracting your biceps.",
-      "Pause for a moment at the top, then slowly lower the barbell costas down to the starting position.",
-      "Repeat for the desired number of repetitions."
+    "bodyPart": "Braço Superior",
+    "equipment": "barra",
+    "gifUrl": "assets/gifs/087.gif",
+    "id": "0038",
+    "instructions": [
+      "Fique em pé com os pés afastados na largura dos ombros e segure uma barra com pegada supinada, palmas das mãos voltadas para cima.",
+      "Deixe a barra pendurada à frente das suas coxas, com os braços estendidos.",
+      "Mantendo o braço superior imóvel, flexione a barra em direção ao peitoral contraindo os bíceps.",
+      "Pause por um momento no topo, depois abaixe lentamente a barra de volta à posição inicial.",
+      "Repita pelo número desejado de repetições."
     ],
-    "name":"barbell drag curl",
-    "secondaryMuscles":[
-      "forearms"
+    "name": "rosca drag com barra",
+    "secondaryMuscles": [
+      "antebraços"
     ],
-    "target":"biceps"
+    "target": "bíceps"
+  },
+  {
+  "bodyPart": "Braço Superior",
+  "equipment": "barra",
+  "gifUrl": "assets/gifs/089.gif",
+  "id": "0048",
+  "instructions": [
+    "Ajuste um banco inclinado em um ângulo de 45 graus.",
+    "Deite-se de costas no banco e segure a barra com pegada reversa, mãos um pouco mais afastadas que a largura dos ombros.",
+    "Retire a barra do suporte e abaixe-a em direção à parte superior do peitoral, mantendo os cotovelos próximos ao corpo.",
+    "Pause por um momento na parte inferior, depois empurre a barra de volta à posição inicial.",
+    "Repita pelo número desejado de repetições."
+  ],
+  "name": "supino inclinado com barra pegada reversa",
+  "secondaryMuscles": [
+    "peitoral",
+    "ombro"
+  ],
+  "target": "tríceps"
+  },
+  {
+  "bodyPart": "Braço Superior",
+  "equipment": "barra",
+  "gifUrl": "assets/gifs/090.png",
+  "id": "0052",
+  "instructions": [
+    "Deite-se em um banco com os pés apoiados no chão e as costas pressionadas contra o banco.",
+    "Segure a barra com pegada pronada, um pouco mais aberta que a largura dos ombros.",
+    "Abaixe a barra até o peitoral, mantendo os cotovelos próximos ao corpo.",
+    "Empurre a barra de volta à posição inicial, estendendo totalmente os braços.",
+    "Repita pelo número desejado de repetições."
+  ],
+  "name": "supino jm com barra",
+  "secondaryMuscles": [
+    "peitoral",
+    "ombro"
+  ],
+  "target": "tríceps"
   },
   {
     "bodyPart":"Braço Superior",
-    "equipment":"barbell",
-    "gifUrl":"assets/gifs/.gif",
-    "id":"0048",
-    "instructions":[
-      "Set up an incline bench at a 45-degree angle.",
-      "Lie costas on the bench and grasp the barbell with a reverse grip, hands slightly wider than shoulder-width apart.",
-      "Unrack the barbell and lower it towards your upper peitoral, keeping your elbows tucked in.",
-      "Pause for a moment at the bottom, then push the barbell costas up to the starting position.",
-      "Repeat for the desired number of repetitions."
-    ],
-    "name":"barbell incline reverse-grip press",
-    "secondaryMuscles":[
-      "peitoral",
-      "Ombro"
-    ],
-    "target":"triceps"
-  },
-  {
-    "bodyPart":"Braço Superior",
-    "equipment":"barbell",
-    "gifUrl":"assets/gifs/.gif",
-    "id":"0052",
-    "instructions":[
-      "Lie flat on a bench with your feet flat on the ground and your costas pressed against the bench.",
-      "Grasp the barbell with an overhand grip, slightly wider than shoulder-width apart.",
-      "Lower the barbell to your peitoral, keeping your elbows tucked in close to your body.",
-      "Push the barbell costas up to the starting position, fully extending your arms.",
-      "Repeat for the desired number of repetitions."
-    ],
-    "name":"barbell jm bench press",
-    "secondaryMuscles":[
-      "peitoral",
-      "Ombro"
-    ],
-    "target":"triceps"
-  },
-  {
-    "bodyPart":"Braço Superior",
-    "equipment":"barbell",
-    "gifUrl":"assets/gifs/.gif",
+    "equipment":"barra",
+    "gifUrl":"assets/gifs/091.gif",
     "id":"0055",
     "instructions":[
-      "Lie flat on a bench with your feet flat on the ground and your costas pressed against the bench.",
-      "Grasp the barbell with a close grip, hands shoulder-width apart, palms facing towards your feet.",
-      "Lift the barbell off the rack and hold it directly above your peitoral with your arms fully extended.",
-      "Slowly lower the barbell towards your peitoral, keeping your elbows close to your body.",
-      "Pause for a moment when the barbell touches your peitoral, then push it costas up to the starting position.",
-      "Repeat for the desired number of repetitions."
+      "Deite-se em um banco com os pés apoiados no chão e as costas pressionadas contra o banco.",
+      "Segure a barra com uma pegada fechada, mãos na largura dos ombros, palmas voltadas para os pés.",
+      "Levante a barra do suporte e segure-a diretamente acima do peito com os braços totalmente estendidos.",
+      "Abaixe lentamente a barra em direção ao peito, mantendo os cotovelos próximos ao corpo.",
+      "Pause por um momento quando a barra tocar o peito, depois empurre-a de volta à posição inicial.",
+      "Repita pelo número desejado de repetições."
     ],
-    "name":"barbell lying close-grip press",
+    "name":"supino reto com pegada fechada",
     "secondaryMuscles":[
       "peitoral",
-      "Ombro"
+      "ombro"
     ],
-    "target":"triceps"
+    "target":"tríceps"
   },
   {
     "bodyPart": "Perna Superior",
@@ -1522,27 +1522,27 @@ final List<Map<String, dynamic>> demoExercises = [
     "target": "quadríceps"
   },
   {
-    "bodyPart":"Perna Superior",
-    "equipment":"barbell",
-    "gifUrl":"assets/gifs/.gif",
-    "id":"0026",
-    "instructions":[
-      "Set up a barbell on a squat rack at peitoral height.",
-      "Stand facing away from the rack, with your feet shoulder-width apart.",
-      "Bend your knees and lower your body down into a squat position, keeping your costas straight and peitoral up.",
-      "Grasp the barbell with an overhand grip, slightly wider than shoulder-width apart.",
-      "Lift the barbell off the rack and step costas, ensuring your feet are still shoulder-width apart.",
-      "Lower your body down into a squat, keeping your knees in line with your toes.",
-      "Pause for a moment at the bottom, then push through your heels to return to the starting position.",
-      "Repeat for the desired number of repetitions."
+    "bodyPart": "Perna Superior",
+    "equipment": "barra",
+    "gifUrl": "assets/gifs/084.gif",
+    "id": "0026",
+    "instructions": [
+      "Configure uma barra em um rack de agachamento na altura do peitoral.",
+      "Fique em pé de costas para o rack, com os pés afastados na largura dos ombros.",
+      "Dobre os joelhos e abaixe o corpo em posição de agachamento, mantendo as costas retas e o peitoral para cima.",
+      "Segure a barra com pegada pronada, um pouco mais afastada que a largura dos ombros.",
+      "Retire a barra do rack e dê um passo para trás, certificando-se de que os pés ainda estejam na largura dos ombros.",
+      "Abaixe o corpo em posição de agachamento, mantendo os joelhos alinhados com os pés.",
+      "Pause por um momento na parte inferior, depois empurre pelos calcanhares para retornar à posição inicial.",
+      "Repita pelo número desejado de repetições."
     ],
-    "name":"barbell bench squat",
-    "secondaryMuscles":[
-      "glutes",
-      "hamstrings",
-      "calves"
+    "name": "agachamento no banco com barra",
+    "secondaryMuscles": [
+      "glúteos",
+      "isquiotibiais",
+      "panturrilhas"
     ],
-    "target":"quads"
+    "target": "quadríceps"
   },
   {
     "bodyPart": "Perna Superior",
